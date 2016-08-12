@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Payubiz_demo3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="click_here">Click here</string>
+    <string name="if_cvv_and_expiry_on_card"> &#160;if you have CVV and Expiry on your card</string>
+    <string name="if_dont_cvv_and_expiry_on_card"> &#160;if you don\'t have CVV and Expiry on your card</string> <string name="action_exit">Exit</string>
+    <string name="action_next">Next</string>
+    <string name="net_banking">Net Banking</string>
+</resources>
